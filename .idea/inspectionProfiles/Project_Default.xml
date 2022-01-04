@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="ex4.hangman.hangman_helper" />
+          <option value="ex4.hangman.get_random_word" />
+          <option value="ex4.hangman.display_state" />
+          <option value="ex4.hangman.get_input" />
+          <option value="ex4.hangman.HINT_LENGTH" />
+          <option value="ex4.hangman.show_suggestions" />
+          <option value="ex4.hangman.POINTS_INITIAL" />
+          <option value="ex4.hangman.load_words" />
+          <option value="ex4.hangman.play_again" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
